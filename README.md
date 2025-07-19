@@ -1,1 +1,2 @@
-# my.cv2
+# my-cv
+Curriculum Vitae usando html y css
